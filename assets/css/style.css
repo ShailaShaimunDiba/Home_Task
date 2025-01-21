@@ -1,0 +1,20 @@
+/*---------------------------------------------------------------------*/
+/*-------------------------Menu CSS-----------------------------*/
+
+.menubar.activeSticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    animation: fadeInDown 1s ease-in-out;
+    animation-duration: .4s;
+    animation-name: test;
+
+
+
+}
+
+.menubar.activeSticky .navbar {
+    background-color: greenyellow !important;
+}
