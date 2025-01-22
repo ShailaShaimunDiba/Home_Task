@@ -18,3 +18,7 @@
 .menubar.activeSticky .navbar {
     background-color: greenyellow !important;
 }
+
+.faculty .card {
+    margin-top: 20px;
+}
